@@ -25,7 +25,7 @@
 	    '<input type="hidden" name="username" value="{1}" />' +
 	    '<input type="hidden" name="password" value="{2}" />' +
         '</form>' +
-        '<iframe src="" name="c9login" style="border: 0;width:100%;height:100%"></iframe>';
+        '<iframe src="" name="c9login" style="border:none;width:100%;height:100%"></iframe>';
 
     window.C9Charts = {
     	render: function(selector, options){
